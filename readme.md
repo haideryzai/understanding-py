@@ -1,9 +1,3 @@
-Sure, Mr. Haider! Below is a **README file** structure and content that you can use for your GitHub repository, tailored to the tasks and lessons we're working on. You can modify it as needed.
-
----
-
-### **README File for Python Learning Repository**
-
 ```markdown
 # Python Learning Journey 🚀
 
