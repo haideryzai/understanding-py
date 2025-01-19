@@ -94,12 +94,7 @@ This repository will expand to include:
 
 ---
 
-## Contributing 🤝
-If you'd like to contribute or suggest improvements, feel free to fork this repository, create a branch, and submit a pull request. 
-
----
-
 ## Author ✍️
-**Mr. Haider**  
+** Haider Zaman**  
 Full-Stack Developer | Python and ML Enthusiast  
 [GitHub Profile](https://github.com/haideryzai)
