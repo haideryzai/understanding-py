@@ -3,6 +3,6 @@
 
 p_languages = ("Python", "JavaScript", "Java")
 
-print(p_languages[0], p_languages[2])
+print(p_languages[0], p_languages[-1])
 
 
