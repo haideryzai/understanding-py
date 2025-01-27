@@ -4,7 +4,7 @@
 
 cubes = [x**3 for x in range(1,11)]
 
-divisible_by2_and_3= [x for x in range(1,20) if x % 6 == 0]
+divisible_by2_and_3 = [x for x in range(1,20) if x % 6 == 0]
 
 matrix2D =  [[x for x in range(1, 100) if x % 6 == 0] for _ in range(1, 3)]
 
