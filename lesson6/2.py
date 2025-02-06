@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 
 # Load the dataset
 script_dir = os.path.dirname(os.path.abspath(__file__))
-csv_file_path = os.path.join(script_dir, 'house_prices.csv')
+csv_file_path = os.path.join(script_dir, 'hpd.csv')
 df = pd.read_csv(csv_file_path)
 
 # Prepare the data
